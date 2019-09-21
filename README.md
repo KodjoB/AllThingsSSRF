@@ -218,6 +218,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [115857 Slim Shady: SSRF and local file read in video to gif converter](https://hackerone.com/reports/115857)
 
+- [Jira Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)
+
 
 #### Videos/POC
 
